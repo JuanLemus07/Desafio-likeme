@@ -1,1 +1,1 @@
-Actualizacion del desafio likeme, segunda parte, solo modificacion del likeme backend especificamte (server/index.js)y (utils/pg.js)
+Actualizacion del desafio likeme, segunda parte, solo modificacion del likeme backend ( commit put and delete )
